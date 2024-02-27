@@ -5,6 +5,6 @@
 		"App_Version":"1.0",
 		"Upload_Date":"2024-02-27",
 		"Active":"1",
-		"Update_Available": "1"
+		"Update_Available": "0"
 	}
 ]

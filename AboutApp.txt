@@ -4,6 +4,7 @@
 		"App_Desc":"HearEase, a mobile app acting as a personalized hearing aid, amplifies sound for those with hearing issues. With customizable settings, it ensures clear and loud communication, enabling users to connect seamlessly with their surroundings.",
 		"App_Version":"1.0",
 		"Upload_Date":"2024-02-27",
-		"Active":"1"
+		"Active":"1",
+		"Update_Available": "1"
 	}
 ]
